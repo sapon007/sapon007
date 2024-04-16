@@ -1,6 +1,6 @@
-## Всем привет 👋
+# Всем привет 👋
 
-#### Я Дима и я QA Engineer.
+### Я Дима и я QA Engineer.
 
 ---
 Имею более 5 лет опыта в тестировании.  
@@ -8,8 +8,8 @@
 ---
 Текущий стек автоматизации:
 <p>
-<img width="40px" height="40px" title="Java" src="icons/Java.svg">
-<img width="40px" height="40px" title="Gradle" src="icons/Gradle.svg">
+<img width="40px" height="40px" title="Java" src="icons/java.svg">
+<img width="40px" height="40px" title="Gradle" src="icons/gradle.svg">
 <img width="40px" height="40px" title="JUnit5" src="icons/JUnit5.svg">
 <img width="40px" height="40px" title="Selenide" src="icons/Selenide.svg">
 <img width="40px" height="40px" title="Selenide" src="icons/logo-transparent.png">
