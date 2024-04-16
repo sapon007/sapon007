@@ -1,16 +1,25 @@
-### Hi there 👋
+## Всем привет 👋
 
-<!--
-**sapon007/sapon007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Я Дима и я QA Engineer.
 
-Here are some ideas to get you started:
+---
+Имею более 5 лет опыта в тестировании.  
+Последний год активно развиваюсь в рамках автоматизации тестирования.  
+---
+Текущий стек автоматизации:
+<p>
+<img width="40px" height="40px" title="Java" src="icons/Java.svg">
+<img width="40px" height="40px" title="Gradle" src="icons/Gradle.svg">
+<img width="40px" height="40px" title="JUnit5" src="icons/JUnit5.svg">
+<img width="40px" height="40px" title="Selenide" src="icons/Selenide.svg">
+<img width="40px" height="40px" title="Selenide" src="icons/logo-transparent.png">
+<img width="40px" height="40px" title="Allure Report" src="icons/Allure_Report.svg">
+</p>
+Используемые инструменты:
+<p>
+<img width="40px" height="40px" title="Jira" src="icons/Jira.svg">
+<img width="40px" height="40px" title="Selenide" src="icons/getpostman-icon.svg">
+<img width="40px" height="40px" title="Allure TestOps" src="icons/AllureTestOps.svg">
+<img width="40px" height="40px" title="Jenkins" src="icons/Jenkins.svg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
