@@ -12,7 +12,7 @@
 Текущий стек автоматизации:
 <p>
 <a href="https://www.java.com/ru/" target="_blank" ><img src="icons/java.svg" width="40px" height="40px" title="Java" alt="Java"></a>
-<a href="https://gradle.org" target="_blank><img src="icons/gradle.svg" width="40px" height="40px" title="Gradle" alt="Gradle"></a>
+<a href="https://gradle.org" target="_blank"><img src="icons/gradle.svg" width="40px" height="40px" title="Gradle" alt="Gradle"></a>
 <a href="https://junit.org/junit5/" target="_blank"><img src="icons/JUnit5.svg" width="40px" height="40px" title="JUnit5" alt="JUnit5"></a>
 <a href="https://ru.selenide.org" target="_blank"><img src="icons/Selenide.svg" width="40px" height="40px" title="Selenide" alt="Selenide"></a>
 <a href="https://rest-assured.io" target="_blank"><img src="icons/logo-transparent.png" width="40px" height="40px" title="Rest Assured" alt="Rest Assured"></a>
